@@ -1,0 +1,14 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+}
+
+.question input[type-"text"] {
+    width: 80%;
+    border-top: 1px;
+    border-right: 2px;
+    border-bottom: 2px;
+    border-left: 2px;
+    margin: 10px 1em;
+    border-radius: 7px;
+}
