@@ -1,0 +1,12 @@
+body {
+    background-color: skyblue;
+    font-color: darkblue;
+}
+
+h3 {
+    text-align: center;
+}
+
+div {
+    border: 2px dashed red;
+}
